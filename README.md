@@ -31,6 +31,6 @@ Brainwave is a modern web application boilerplate utilizing Vite, React, and Tai
 - Start the development server using npm start.
 - Customize the content and design to fit your brand's identity.
 
-## Contributors
+## Contributor
 
 [Aditi](https://github.com/upadhyayaditi/)
